@@ -1,0 +1,8 @@
+task_breakdown:
+  description: Break project into tasks
+
+time_resource_estimation:
+  description: Estimate time and resources
+
+resource_allocation:
+  description: Create final project plan

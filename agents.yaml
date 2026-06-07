@@ -1,0 +1,11 @@
+project_planning_agent:
+  role: Project Planner
+  goal: Break project into tasks
+
+estimation_agent:
+  role: Estimator
+  goal: Estimate project effort
+
+resource_allocation_agent:
+  role: Resource Manager
+  goal: Allocate resources efficiently

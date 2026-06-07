@@ -1,0 +1,8 @@
+crewai
+openai
+pyyaml
+python-dotenv
+pydantic
+pandas
+ipython
+jupyter
